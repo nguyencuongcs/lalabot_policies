@@ -1,4 +1,3 @@
-```markdown
 # Terms of Service
 
 Effective Date: July 24, 2025
