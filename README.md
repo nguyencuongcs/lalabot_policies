@@ -9,6 +9,7 @@ This repository provides public URLs and documentation required for Facebook Log
 Facebook requires public access to certain documents for app review and access verification. The following links fulfill those requirements for LaLaBot:
 
 ### 1. **User Data Policy (Privacy Policy)**
+
 URL: [https://nguyencuongcs.github.io/lalabot_policies/policies/privacy-policy.md](https://nguyencuongcs.github.io/lalabot_policies/policies/privacy-policy.md)
 
 This page describes how LaLaBot collects, uses, and stores personal data including data obtained via Facebook Login.
@@ -16,6 +17,7 @@ This page describes how LaLaBot collects, uses, and stores personal data includi
 ---
 
 ### 2. **Data Deletion Instructions**
+
 URL: [https://nguyencuongcs.github.io/lalabot_policies/policies/facebook-data-deletion.md](https://nguyencuongcs.github.io/lalabot_policies/policies/facebook-data-deletion.md)
 
 Users who signed in with Facebook and want to delete their data can follow the instructions here. We offer 3 methods for request:
@@ -31,6 +33,7 @@ Users who signed in with Facebook and want to delete their data can follow the i
 ---
 
 ### 3. **App Terms & Conditions**
+
 URL: [https://nguyencuongcs.github.io/lalabot_policies/policies/terms-of-service.md](https://nguyencuongcs.github.io/lalabot_policies/policies/terms-of-service.md)
 
 Covers all terms of service when using LaLaBot, including third-party integrations like Facebook.
@@ -38,6 +41,7 @@ Covers all terms of service when using LaLaBot, including third-party integratio
 ---
 
 ### 4. **User Support / Contact**
+
 URL: [https://lalabot.dev/contact](https://lalabot.dev/contact)
 
 For any legal inquiries, Facebook data deletion, or general support, contact us via this page.
